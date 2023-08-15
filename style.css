@@ -1,0 +1,30 @@
+/* .hovr{
+    transition: all 3s; 
+      padding: 10px;
+}
+
+.hovr:hover{
+    transform: rotateX(-10px);
+    cursor: pointer;
+    background-color: aquamarine;
+} */
+
+.card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+
+
+
+
+
+
+  
+  
+  /* .img-fluid {
+  transform: rotate(5deg);
+  transform-origin: bottom right left;
+ }    */
